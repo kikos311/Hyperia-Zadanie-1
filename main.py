@@ -3,6 +3,8 @@
 # Contact: kristiansiska@gmail.com
 # Description: This script scrapes leaflet data from the Prospektmaschine website and saves it to a JSON file.
 
+# The script was written with help of ai to fast up some proceses and make it more efficient
+# 
 
 # For html requests 
 import requests
